@@ -1,0 +1,16 @@
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.csproj.AssemblyReference.cache
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.AssemblyInfoInputs.cache
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.AssemblyInfo.cs
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.csproj.CoreCompileInputs.cache
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\bin\Debug\net5.0\AssuranceProjet.exe
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\bin\Debug\net5.0\AssuranceProjet.deps.json
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\bin\Debug\net5.0\AssuranceProjet.runtimeconfig.json
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\bin\Debug\net5.0\AssuranceProjet.runtimeconfig.dev.json
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\bin\Debug\net5.0\AssuranceProjet.dll
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\bin\Debug\net5.0\ref\AssuranceProjet.dll
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\bin\Debug\net5.0\AssuranceProjet.pdb
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.dll
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\ref\AssuranceProjet.dll
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.pdb
+C:\Users\cabre\source\repos\AssuranceProjet\AssuranceProjet\obj\Debug\net5.0\AssuranceProjet.genruntimeconfig.cache
